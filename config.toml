@@ -23,6 +23,7 @@ rv-brand = "ReX"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = "'Shorts overlay buttons'"
 included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
+arch = "both"
 
 [Music]
 build-mode = "both"
