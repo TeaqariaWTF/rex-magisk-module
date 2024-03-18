@@ -4,7 +4,7 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 
 [Music-ReX]
 app-name = "Music"
-build-mode = "both"
+build-mode = "module"
 version = "6.36.54"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
@@ -15,7 +15,7 @@ included-patches = "'Custom branding icon YouTube Music' 'Custom branding name Y
 
 [YouTube-ReX]
 app-name = "YouTube"
-build-mode = "both"
+build-mode = "module"
 version = "19.02.39"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
