@@ -1,4 +1,14 @@
+        
 [
+  {
+    "patchName": "Custom branding name YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube "
+      }
+    ]
+  },
   {
     "patchName": "Custom branding icon YouTube",
     "options": [
@@ -16,5 +26,19 @@
         "value": "MMT"
       }
     ]
+  },
+  {
+    "patchName": "Custom branding name YouTube Music",
+    "options": [
+      {
+        "key": "AppNameLauncher",
+        "value": "YouTube Music"
+      },
+      {
+        "key": "AppNameNotification",
+        "value": "Music"
+      }
+    ]
   }
 ]
+        
