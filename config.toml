@@ -16,7 +16,7 @@ included-patches = "'Custom branding icon YouTube Music' 'Custom branding name Y
 [YouTube-ReX]
 app-name = "YouTube"
 build-mode = "module"
-version = "19.02.39"
+version = "19.09.38"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReX"
