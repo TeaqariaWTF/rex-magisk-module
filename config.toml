@@ -10,7 +10,7 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReX"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-excluded-patches = ""
+excluded-patches = "Bitrate default value"
 included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
 
 [YouTube-ReX]
