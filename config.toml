@@ -12,6 +12,7 @@ rv-brand = "ReX"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 excluded-patches = ""
 included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
+arch = "both"
 
 [YouTube-ReX]
 app-name = "YouTube"
@@ -23,7 +24,6 @@ rv-brand = "ReX"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = "'Shorts overlay buttons'"
 included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
-arch = "both"
 
 [Music]
 build-mode = "both"
