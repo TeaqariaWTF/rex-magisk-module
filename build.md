@@ -1,4 +1,4 @@
-Music-RVX: 6.41.59  
+Music-RVX: 6.45.54  
 YouTube-RVX: 19.09.38  
 twitter-non-monet: 10.34.0-release.0  
 
@@ -10,8 +10,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 Changelog:  
 CLI: j-hc/revanced-cli-4.5.0-all.jar  
 Integrations: anddea/revanced-integrations-0.150.0-dev.4.apk  
-Patches: anddea/revanced-patches-2.223.0-dev.19.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/vdev.19)
+Patches: anddea/revanced-patches-2.223.0-dev.20.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/vdev.20)
 
 CLI: j-hc/revanced-cli-4.5.0-all.jar  
 Integrations: crimera/revanced-integrations-1.8.1.apk  
