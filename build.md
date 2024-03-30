@@ -1,5 +1,5 @@
+YouTube-RVX: 19.11.38  
 Music-RVX: 6.45.54  
-YouTube-RVX: 19.09.38  
 twitter-non-monet: 10.34.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
