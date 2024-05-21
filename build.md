@@ -1,6 +1,6 @@
 YouTube-RVX: 19.16.38  
 twitter-non-monet: 10.41.0-release.1  
-Reddit: 2024.18.1  
+Reddit: 2024.17.0  
 
 Install [Revanced GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
