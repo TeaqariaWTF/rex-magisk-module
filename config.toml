@@ -63,7 +63,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 patches-version = "v4.8.3"
-integrations-version = "V1.9.2"
+integrations-version = "v1.9.2"
 rv-brand = "RVX"
 arch = "arm64-v8a"
 
