@@ -1,10 +1,11 @@
-  [
+        
+[
   {
     "patchName": "Custom branding icon YouTube",
     "options": [
       {
         "key": "AppIcon",
-        "value": "Revancify Blue"
+        "value": "MMT"
       }
     ]
   },
@@ -13,7 +14,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "ReVanced Extended"
+        "value": "YouTube"
       }
     ]
   },
@@ -21,9 +22,30 @@
     "patchName": "Custom branding icon YouTube Music",
     "options": [
       {
+        "key": "SplashHeaderIcon",
+        "value": "MMT"
+      },
+      {
         "key": "AppIcon",
-        "value": "Revancify Blue"
+        "value": "MMT"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "YouTube Music"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "YouTube Music"
       }
     ]
   }
+        
 ]
+        
+        
+
