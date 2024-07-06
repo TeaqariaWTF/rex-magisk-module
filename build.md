@@ -1,6 +1,6 @@
 Music-RVX: 7.04.51  
-YouTube-RVX: 19.20.35  
 twitter-non-monet: 10.45.0-release.0  
+YouTube-RVX: 19.20.35  
 Reddit: 2024.17.0  
 
 Install [Revanced GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music  
