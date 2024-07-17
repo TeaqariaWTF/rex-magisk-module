@@ -1,6 +1,5 @@
-Music-RVX (arm-v7a): 7.06.53  
-Music-RVX (arm64-v8a): 7.06.53  
-YouTube-RVX: 19.23.40  
+Music-RVX: 7.08.53  
+YouTube-RVX: 19.25.39  
 
 Install [Revanced GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
